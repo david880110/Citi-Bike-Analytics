@@ -16,3 +16,15 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 New Jersey. Named after lead sponsor Citigroup, it is operated by Motivate (formerly Alta Bicycle Share), 
 with former Metropolitan Transportation Authority CEO Jay Walder as chief executive. 
 The system's bikes and stations use BIXI-branded technology from PBSC Urban Solutions.
+
+## Technology Used
+
+-   Python
+-   Tableau
+
+## Findings 
+
+* The current main citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend
+* As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in
+low temperatures. Therefore, at some point the ridership does not grow. Therefore, the amount of ridership begins to fall 
+* 

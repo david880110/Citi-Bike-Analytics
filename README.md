@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
 # Citi-Bike-Analytics
 
 ![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
@@ -9,12 +10,11 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 
 ## Data Source
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
 
-[Citi Bike](https://www.citibikenyc.com/system-data) is a privately owned public bicycle sharing system serving New York City and Jersey City, 
-New Jersey. Named after lead sponsor Citigroup, it is operated by Motivate (formerly Alta Bicycle Share), 
-with former Metropolitan Transportation Authority CEO Jay Walder as chief executive. 
-The system's bikes and stations use BIXI-branded technology from PBSC Urban Solutions.
+
+This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system, 
+trips that are taken to/from any of our “test” stations (which were using more in June and July 2013), and any trips that were below 60 seconds in length 
+(potentially false starts or users trying to re-dock a bike to ensure it's secure).
 
 ## Findings 
 

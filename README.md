@@ -24,7 +24,7 @@ trips that are taken to/from any of our “test” stations (which were using mo
 
 
 * As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in
-low temperatures. Therefore, at some point the ridership does not grow. Therefore, the amount of ridership begins to fall 
+low temperatures. Therefore, at some point the ridership does not grow.
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/2017_growth.png)
 
 

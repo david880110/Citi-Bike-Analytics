@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
+
 # Citi-Bike-Analytics
 
 ![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
@@ -9,8 +9,7 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/top_location.png)
 
 ## Data Source
-
-
+![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
 
 This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system, 
 trips that are taken to/from any of our “test” stations (which were using more in June and July 2013), and any trips that were below 60 seconds in length 

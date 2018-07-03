@@ -17,11 +17,11 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 trips that are taken to/from any of our “test” stations (which were using more in June and July 2013), and any trips that were below 60 seconds in length 
 (potentially false starts or users trying to re-dock a bike to ensure it's secure).
 
-### Limitation
+* Limitation
 There were 7% user did not provide gender information and most of them (14%) are weekend users so we will not be able to tell if female are more willing to ride
 on the weekend then they do on weekdays, but we may still determine that male user are the dominant customer at all time
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
+![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/limitation.png)
 
 
 ## Findings 

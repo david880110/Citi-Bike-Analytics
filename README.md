@@ -24,7 +24,7 @@ trips that are taken to/from any of our “test” stations (which were using mo
 
 ### The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/customer_base.png) ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/femal_ridership.png)
+![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/peakhours.png)
 
 
 ### As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in

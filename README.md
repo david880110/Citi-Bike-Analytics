@@ -31,7 +31,7 @@ on the weekend then they do on weekdays, but we may still determine that male us
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/customer_base.png) ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/femal_ridership.png)
 
-### The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM
+### The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/peakhours.png)
 

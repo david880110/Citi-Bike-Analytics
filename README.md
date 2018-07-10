@@ -24,6 +24,14 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 
 <table class="hide-while-loading table table-striped">
 <tbody id="tbody-content">
+<thead>
+<tr>
+<th>Name</th>
+<th>Date Modified</th>
+<th>Size</th>
+<th>Type</th>
+</tr>
+</thead>
 <tr>
 <td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201701-citibike-tripdata.csv.zip">JC-201701-citibike-tripdata.csv.zip</a></td>
 <td>Apr 6th 2017, 02:01:43 pm</td>

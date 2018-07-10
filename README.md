@@ -3,6 +3,12 @@
 
 ![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
 
+<p align="center">
+  <a href="#background">Data Source</a> •
+  <a href="#analysis">Findings</a> •
+  <a href="#technology-stack-used">Technology Used</a>
+</p>
+
 A analysis for the New York Citi Bike Program, in which responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States
  in order to generate business insights in terms of visulize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey
  

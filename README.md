@@ -4,9 +4,9 @@
 ![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
 
 <p align="center">
-  <a href="##Data-Source">Data Source</a> •
-  <a href="##Findings">Findings</a> •
-  <a href="##Technology-Used">Technology Used</a>
+  <a href="##data-Source">Data Source</a> •
+  <a href="##findings">Findings</a> •
+  <a href="##technology-Used">Technology Used</a>
 </p>
 
 A analysis for the New York Citi Bike Program, in which responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States

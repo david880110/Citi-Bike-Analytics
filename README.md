@@ -19,8 +19,7 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 ## Data Source
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
 
-This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system, 
-trips that are taken to/from any of our “test” stations (which were using more in June and July 2013), and any trips that were below 60 seconds in length 
+This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processed to remove trips that are taken by staff as they service and inspect the system and any trips that were below 60 seconds in length 
 (potentially false starts or users trying to re-dock a bike to ensure it's secure).
 
 <table class="hide-while-loading table table-striped">

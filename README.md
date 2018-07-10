@@ -23,19 +23,6 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 trips that are taken to/from any of our “test” stations (which were using more in June and July 2013), and any trips that were below 60 seconds in length 
 (potentially false starts or users trying to re-dock a bike to ensure it's secure).
 
-JC-201701-citibike-tripdata.csv.zip	Apr 6th 2017| 02:01:43 pm	255 KB	ZIP file
-JC-201702-citibike-tripdata.csv.zip	Apr 6th 2017| 02:01:44 pm	275 KB	ZIP file
-JC-201703-citibike-tripdata.csv.zip	Apr 6th 2017| 02:01:44 pm	241 KB	ZIP file
-JC-201704-citibike-tripdata.csv.zip	Aug 1st 2017| 09:20:54 am	432 KB	ZIP file
-JC-201705-citibike-tripdata.csv.zip	Aug 1st 2017| 09:20:55 am	529 KB	ZIP file
-JC-201706-citibike-tripdata.csv.zip	Aug 1st 2017| 09:20:56 am	647 KB	ZIP file
-JC-201707-citibike-tripdata.csv.zip	Aug 1st 2017| 09:20:57 am	676 KB	ZIP file
-JC-201708 citibike-tripdata.csv.zip	Oct 3rd 2017| 08:52:49 am	711 KB	ZIP file
-JC-201709-citibike-tripdata.csv.zip	Oct 3rd 2017| 08:52:49 am	667 KB	ZIP file
-JC-201710-citibike-tripdata.csv.zip	Jan 31st 2018| 01:15:18 pm	703 KB	ZIP file
-JC-201711-citibike-tripdata.csv.zip	Jan 31st 2018| 01:15:19 pm	477 KB	ZIP file
-JC-201712-citibike-tripdata.csv.zip	Jan 31st 2018| 01:15:19 pm	324 KB	ZIP file
-
 * Limitation
 There were 7% user did not provide gender information and most of them (14%) are weekend users so we will not be able to tell if female are more willing to ride
 on the weekend then they do on weekdays, but we may still determine that male user are the dominant customer at all time

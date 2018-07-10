@@ -25,7 +25,8 @@ trips that are taken to/from any of our “test” stations (which were using mo
 
 <table>
   <tr>
-    <th>JC-201701-citibike-tripdata.csv.zip	Apr 6th 2017</th>
+    <th>JC-201701-citibike-tripdata.csv.zip	Apr 6th 2017
+    <a href="https://s3.amazonaws.com/tripdata/201512-citibike-tripdata.zip"></th>
     <th>02:01:43 pm	255 KB	ZIP file</th>
   </tr>
   <tr>

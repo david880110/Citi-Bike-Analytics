@@ -132,7 +132,7 @@ low temperatures. Therefore, at some point the ridership does not grow. However,
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/2017_growth.png)
 
-### Map visualization helps to understand that more and more people choose to live in Jersey City and work in Manhathan
+## Map visualization helps to understand that more and more people choose to live in Jersey City and work in Manhathan
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/popular_location.png)
 

@@ -127,12 +127,13 @@ on the weekend then they do on weekdays, but we may still determine that male us
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/peakhours.png)
 
-### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in
-low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
+### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/2017_growth.png)
 
-## Map visualization helps to understand that more and more people choose to live in Jersey City and work in Manhathan
+## Map visualization 
+
+### For city officials to understand that more and more people choose to live in Jersey City and work in Manhathan
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/popular_location.png)
 

@@ -131,9 +131,9 @@ on the weekend then they do on weekdays, but we may still determine that male us
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/2017_growth.png)
 
-## Map visualization 
+## Map visualization for city officials
 
-### For city officials to understand that more and more people choose to live in Jersey City and work in Manhathan
+* More and more people choose to live in Jersey City and work in Manhathan
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/popular_location.png)
 

@@ -18,6 +18,8 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/avg_bike_distance.png)
 
+![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/popularity_over_time.png)
+
 ## Data Source
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
 

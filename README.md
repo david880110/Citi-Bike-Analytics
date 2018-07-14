@@ -141,7 +141,7 @@ on the weekend then they do on weekdays, but we may still determine that male us
 
 ## Technology Used
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="220" height="50"/>
+<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
 
 <img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
 

@@ -142,4 +142,8 @@ on the weekend then they do on weekdays, but we may still determine that male us
 ## Technology Used
 
 -   Python
+![alt text](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 -   Tableau
+![alt text](https://www.generationamiga.com/wp-content/uploads/2016/10/sqllite-for-amigaOS.png)
+
